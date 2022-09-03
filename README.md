@@ -2,6 +2,10 @@
 
 [![Nuget](https://img.shields.io/nuget/v/Dev.ComradeVanti.Nothing)](https://www.nuget.org/packages/Dev.ComradeVanti.Nothing)
 
+Nothing is a type representing the absence of data, similarly to `Unit` in
+[F#](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/unit-type).
+Use it as a return value from methods where you would traditionally return `void`.
+
 ## Usage
 
 `Nothing` exposes a single static readonly instance called `Nothing.atAll`. This
