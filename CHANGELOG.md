@@ -10,3 +10,4 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 - Nothing class with static instance
 - `Task` to `Task<Nothing>` extension method
+- `Action` to `Func<Nothing>` extension method
