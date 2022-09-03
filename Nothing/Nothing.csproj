@@ -19,6 +19,7 @@
         <NeutralLanguage>en</NeutralLanguage>
         <LangVersion>7.3</LangVersion>
         <PackageIcon>Icon.png</PackageIcon>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
