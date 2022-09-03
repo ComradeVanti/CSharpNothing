@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <AssemblyName>Dev.ComradeVanti.Nothing</AssemblyName>
+        <RootNamespace>Dev.ComradeVanti</RootNamespace>
+        <TargetFrameworks>net48;net6.0;net6.0-windows;netcoreapp3.1;netstandard1.0;netstandard1.1;netstandard1.2;netstandard1.3;netstandard1.4;netstandard1.5;netstandard1.6;netstandard1.7;netstandard2.0;netstandard2.1</TargetFrameworks>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>Dev.ComradeVanti.Nothing</PackageId>
+        <Title>Nothing</Title>
+        <Authors>ComradeVanti</Authors>
+        <Description>A unit/nothing type for C#</Description>
+        <PackageLicenseExpression>Unlicense</PackageLicenseExpression>
+        <RepositoryUrl>https://github.com/ComradeVanti/CSharpNothing</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>utility functional unit nothing</PackageTags>
+        <Company />
+        <AssemblyVersion>1.0.0</AssemblyVersion>
+        <FileVersion>1.0.0</FileVersion>
+        <NeutralLanguage>en</NeutralLanguage>
+    </PropertyGroup>
+
+</Project>
