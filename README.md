@@ -1,5 +1,7 @@
 ﻿# Nothing
 
+[![Nuget](https://img.shields.io/nuget/v/Dev.ComradeVanti.Nothing)](https://www.nuget.org/packages/Dev.ComradeVanti.Nothing)
+
 ## Usage
 
 `Nothing` exposes a single static readonly instance called `Nothing.atAll`. This
