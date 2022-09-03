@@ -75,6 +75,15 @@ namespace Dev.ComradeVanti
                 return Nothing.atAll;
             };
 
+        /// <summary>
+        ///     Always returns nothing, regardless of the input
+        /// </summary>
+        /// <param name="item">The thing to discard</param>
+        /// <typeparam name="T">The type of the input</typeparam>
+        /// <returns>Nothing</returns>
+        public static Nothing Discard<T>(this T item) =>
+            Nothing.atAll;
+
     }
 
 }
