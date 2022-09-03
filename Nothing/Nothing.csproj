@@ -18,11 +18,13 @@
         <FileVersion>1.0.0</FileVersion>
         <NeutralLanguage>en</NeutralLanguage>
         <LangVersion>7.3</LangVersion>
+        <PackageIcon>Icon.png</PackageIcon>
     </PropertyGroup>
 
     <ItemGroup>
         <None Include="../README.md" Pack="true" PackagePath="\" />
         <None Include="../CHANGELOG.md" Pack="true" PackagePath="\" />
+        <None Include="../Icon.png" Pack="true" PackagePath="\" />
     </ItemGroup>
 
 </Project>
